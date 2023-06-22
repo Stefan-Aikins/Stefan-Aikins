@@ -1,5 +1,5 @@
 ### Stefan Aikins
-#### Aspiring Software Engineer
+#### Aspiring Web/Software Developer
 ##### I am currently learning Golang
 
 ![](https://static.skillshare.com/uploads/video/thumbnails/fe3a634a98e53a8968672986207aec88/original)
