@@ -10,8 +10,8 @@
 - HTML
 
 #### Technologies
-- MySQL
-- Django
+-GIT
+- sync... 📨:
 
 #### Projects
 - [Latest Project: Task Manager App]( https://github.com/Stefan-Aikins/finalCapstone)
