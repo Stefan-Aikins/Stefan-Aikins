@@ -10,7 +10,7 @@
 - HTML
 
 #### Technologies
--GIT
+- Git
 - sync... 📨:
 
 #### Projects
