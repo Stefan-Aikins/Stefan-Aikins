@@ -1,5 +1,5 @@
 ### Stefan Aikins
-#### Software Engineer
+#### Aspiring Software Engineer
 ##### Devs
 
 ![](https://static.skillshare.com/uploads/video/thumbnails/fe3a634a98e53a8968672986207aec88/original)
